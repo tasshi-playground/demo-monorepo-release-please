@@ -2,4 +2,3 @@
 
 package-a
 
-test
