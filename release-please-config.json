@@ -1,0 +1,25 @@
+{
+  "packages": {
+    "packages/package-a": {
+      "release-type": "node",
+      "draft": false,
+      "prerelease": false,
+      "changelog-path": "CHANGELOG.md",
+      "versioning": "default"
+    },
+    "packages/package-b": {
+      "release-type": "node",
+      "draft": false,
+      "prerelease": false,
+      "changelog-path": "CHANGELOG.md",
+      "versioning": "default"
+    },
+    "packages/package-c": {
+      "release-type": "node",
+      "draft": false,
+      "prerelease": false,
+      "changelog-path": "CHANGELOG.md",
+      "versioning": "default"
+    }
+  }
+}
