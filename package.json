@@ -9,5 +9,8 @@
   "workspaces": [
     "packages/*",
     "examples/*"
-  ]
+  ],
+  "devDependencies": {
+    "release-please": "^13.18.6"
+  }
 }
