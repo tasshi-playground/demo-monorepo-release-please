@@ -1,27 +1,14 @@
 {
+  "release-type": "node",
+  "draft": false,
+  "prerelease": false,
+  "changelog-path": "CHANGELOG.md",
+  "versioning": "default",
   "include-v-in-tag": false,
   "tag-separator": "@",
   "packages": {
-    "packages/package-a": {
-      "release-type": "node",
-      "draft": false,
-      "prerelease": false,
-      "changelog-path": "CHANGELOG.md",
-      "versioning": "default"
-    },
-    "packages/package-b": {
-      "release-type": "node",
-      "draft": false,
-      "prerelease": false,
-      "changelog-path": "CHANGELOG.md",
-      "versioning": "default"
-    },
-    "packages/package-c": {
-      "release-type": "node",
-      "draft": false,
-      "prerelease": false,
-      "changelog-path": "CHANGELOG.md",
-      "versioning": "default"
-    }
+    "packages/package-a": {},
+    "packages/package-b": {},
+    "packages/package-c": {}
   }
 }
