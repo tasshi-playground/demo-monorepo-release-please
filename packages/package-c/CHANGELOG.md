@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-c-v4.1.0...package-c@4.1.1) (2022-06-30)
+
+
+### Bug Fixes
+
+* **package-b:** update ([f023abf](https://github.com/tasshi-playground/demo-monorepo-release-please/commit/f023abf90bf29ac057a4533c9c85c301d9349eef))
+
 ## [4.1.0](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-c-v4.0.1...package-c-v4.1.0) (2022-06-29)
 
 
