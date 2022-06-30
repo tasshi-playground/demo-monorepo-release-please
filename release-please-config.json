@@ -10,8 +10,14 @@
   "plugins": ["node-workspace", "cargo-workspace"],
   "group-pull-request-title-pattern": "chore: release ${branch}, ${scope}, ${component} and ${version}",
   "packages": {
-    "packages/package-a": {},
-    "packages/package-b": {},
-    "packages/package-c": {}
+    "packages/package-a": {
+      "package-name": "@kintone/package-a"
+    },
+    "packages/package-b": {
+      "package-name": "@kintone/package-b"
+    },
+    "packages/package-c": {
+      "package-name": "@kintone/package-b"
+    }
   }
 }
