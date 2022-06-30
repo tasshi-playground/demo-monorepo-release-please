@@ -6,6 +6,9 @@
   "versioning": "default",
   "include-v-in-tag": false,
   "tag-separator": "@",
+  "monorepo-tags": true,
+  "plugins": ["node-workspace", "cargo-workspace"],
+  "group-pull-request-title-pattern": "chore: release ${branch}, ${scope}, ${component} and ${version}",
   "packages": {
     "packages/package-a": {},
     "packages/package-b": {},
