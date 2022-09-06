@@ -12,6 +12,7 @@
   "packages": {
     "packages/package-a": {
       "package-name": "@kintone/package-a"
+      "label": ":shell: Shell"
     },
     "packages/package-b": {
       "package-name": "@kintone/package-b"
