@@ -11,7 +11,7 @@
   "group-pull-request-title-pattern": "chore: release ${branch}",
   "packages": {
     "packages/package-a": {
-      "package-name": "@kintone/package-a"
+      "package-name": "@kintone/package-a",
       "label": ":shell: Shell"
     },
     "packages/package-b": {
