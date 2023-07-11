@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-a@2.2.0...package-a@2.3.0) (2022-09-06)
+
+
+### Features
+
+* **package-a:** update ([400009c](https://github.com/tasshi-playground/demo-monorepo-release-please/commit/400009c32a0e5fc6c4ec44c36f3b6bf0b22868e6))
+* **package-a:** update README.md ([e140e43](https://github.com/tasshi-playground/demo-monorepo-release-please/commit/e140e43229567b31f762b36fa40a29be4a90f040))
+
 ## [2.2.0](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-a@2.1.3...package-a@2.2.0) (2022-07-04)
 
 

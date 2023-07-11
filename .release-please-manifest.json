@@ -1,5 +1,5 @@
 {
-  "packages/package-a": "2.2.0",
+  "packages/package-a": "2.3.0",
   "packages/package-b": "3.2.0",
-  "packages/package-c": "4.2.0"
+  "packages/package-c": "4.3.0"
 }
