@@ -11,6 +11,6 @@
     "examples/*"
   ],
   "devDependencies": {
-    "release-please": "^13.18.6"
+    "release-please": "^16.14.0"
   }
 }
