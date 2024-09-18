@@ -8,7 +8,9 @@
   "tag-separator": "@",
   "monorepo-tags": true,
   "plugins": ["node-workspace"],
-  "group-pull-request-title-pattern": "chore: release ${branch}",
+  "group-pull-request-title-pattern": "chore(${component}): group release ${version} from ${branch}",
+  "pull-request-title-pattern": "chore(${component}): single release ${version} from ${branch}",
+  "component-no-space": true,
   "packages": {
     "packages/package-a": {
       "package-name": "@kintone/package-a",
