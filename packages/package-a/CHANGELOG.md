@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-a@2.3.0...package-a@2.4.0) (2024-09-18)
+
+
+### Features
+
+* **package-a:** update ([cf3c24e](https://github.com/tasshi-playground/demo-monorepo-release-please/commit/cf3c24ed9da7d5de3c83119fa83e4200a9cb0946))
+
 ## [2.3.0](https://github.com/tasshi-playground/demo-monorepo-release-please/compare/package-a@2.2.0...package-a@2.3.0) (2022-09-06)
 
 
